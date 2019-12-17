@@ -20,8 +20,6 @@
 1. `cmake ..`
 1. `make`
 
-For convenience, [`scripts/clean.sh`](`scripts/clean.sh`) is provided to clean the `build` directory and subsequently create a new build folder.
-
 ### Running Tests
 
 Still in `build/`, execute `tests/Test` to run test binary.
